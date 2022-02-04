@@ -1,1 +1,1 @@
-# tablaperiodica2
+Tabla periódica dinámica
